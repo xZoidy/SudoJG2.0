@@ -8,3 +8,5 @@ How to use this plugin?
 Watch this YouTube video to find out more
 https://www.youtube.com/watch?v=nGlxD5BXF7o&t=37s
 Permission sjg.command
+
+now you can do it from console
